@@ -39,7 +39,7 @@ const QrCode = () => {
       <div className="bg-amber-400 bg-cover h-screen">
         <form
           onSubmit={formData}
-          className="bg-cover sm:space-y-5  space-y-3 sm:p-5 p-2 max-w-md mx-auto"
+          className="bg-cover sm:space-y-5  space-y-3 sm:p-5 p-2 max-w-xl mx-auto"
         >
           <h1 className="sm:text-4xl text-xl font-bold text-center sm:mt-5">
             QR Code Generator
